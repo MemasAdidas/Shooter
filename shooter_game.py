@@ -1,5 +1,5 @@
 #Создай собственный Шутер!
-
+#Код для игры шутер!
 from pygame import *
 from random import randint
 
